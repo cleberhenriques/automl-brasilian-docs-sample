@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "230559075488",
+    "firebase_url": "https://testprojectcleber.firebaseio.com",
+    "project_id": "testprojectcleber",
+    "storage_bucket": "testprojectcleber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230559075488:android:116ba89024bd5431b3cdc5",
+        "android_client_info": {
+          "package_name": "me.cleberhenriques.automlsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230559075488-12ifl90dl8c3choiojqp53amavecf853.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClT24-oirFgNI-ftXxYsXnLsagYBILrs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230559075488-12ifl90dl8c3choiojqp53amavecf853.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
